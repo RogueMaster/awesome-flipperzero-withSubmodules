@@ -87,7 +87,7 @@
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
 - [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
-
+- [`MiKai` an outdated porting of MiKai for NFC Tags Coges MyKey ](https://github.com/Johnnhrjejr/mikai?tab=readme-ov-file)
 ## Firmwares & Tweaks
 
 <table align="right">
